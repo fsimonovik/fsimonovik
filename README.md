@@ -16,7 +16,7 @@
 ```
 guest@github ~ % whoami
 
-Name       : Your Name
+Name       : Filip Simonovikj
 Role       : Software Engineer
 Focus      : Scalable platforms & high-performance apps
 Company    : @Pixaera
@@ -40,8 +40,8 @@ much as the pixels on screen.
 
 guest@github ~ % cat contact.cfg
 
-LinkedIn   : linkedin.com/in/YOUR-LINK
-Email      : you@example.com
+LinkedIn   : https://www.linkedin.com/in/filip-simonovikj-b1b7b019b/
+Email      : filip@pixaera.com
 Portfolio  : your-site.dev
 
 guest@github ~ % ./live_stats.sh
