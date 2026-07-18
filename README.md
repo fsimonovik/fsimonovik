@@ -42,7 +42,7 @@ guest@github ~ % cat contact.cfg
 
 LinkedIn   : https://www.linkedin.com/in/filip-simonovikj-b1b7b019b/
 Email      : filip@pixaera.com
-Portfolio  : your-site.dev
+Portfolio  : null
 
 guest@github ~ % ./live_stats.sh
 > streaming github state below ↓
