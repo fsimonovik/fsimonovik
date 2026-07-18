@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Filip+Simonovikj;Software+Engineer+%40+Pixaera;Building+scalable+TypeScript+systems" alt="typing header" />
+<!-- <img src="https://readme-typing-svg.demolab.com/api?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi%2C+I%27m+Filip+Simonovikj;Software+Engineer+%40+Pixaera;Building+scalable+TypeScript+systems" alt="typing header" /> -->
 
 </div>
 
